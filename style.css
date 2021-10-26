@@ -1,0 +1,48 @@
+body{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-image:url(back2.jpg);
+    image-rendering: auto;
+}
+
+.switch_12{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    width: 100%;
+}
+
+.clear{
+    display: block;
+}
+.switch_34{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+
+}
+
+.button{
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: solid rgb(3, 83, 83);
+    background-color: darkcyan;
+    color: white;
+
+}
+span{
+    border: solid;
+    width: 500px;
+    margin: 15px;
+    background-color: lightcyan;
+}
+h1{
+    color: rgb(3, 83, 83);
+}
+button:hover{
+    background-color: maroon;
+    font-weight: bolder;
+}
